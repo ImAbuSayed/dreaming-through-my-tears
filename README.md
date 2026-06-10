@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dreaming-through-my-tears/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Dreaming Through My Tears](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dreaming-through-my-tears/) |
+| **Get License** | [Get a Licensing Quote for Dreaming Through My Tears](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dreaming-through-my-tears/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tears are falling but the fire is bright
+> Craving the warmth of your skin tonight
+> Caught in a memory that pulls me near
+> I keep on dreaming through my tears
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
