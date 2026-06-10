@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dreaming-through-my-tears/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Dreaming Through My Tears](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dreaming-through-my-tears/) |
+| **Get License** | [Music Rights & Licensing for Dreaming Through My Tears](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dreaming-through-my-tears/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `fb0e6cad71877b76d60ebcee7e14ac6ed92fe7c90597270cdb8b60bad6ae266c` |
 | **Timestamp** | June 10, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
